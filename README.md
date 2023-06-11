@@ -7,13 +7,7 @@ And needed to add some more functionalities so that users can use it easily.
 Used Redux toolkit to have state management.
 
 For running the project:
-Running the server:
-  Set directory to:
-    cd server 
-  Type in cmd:
+Running the server(set directory to server):
     npm run start
-Running the client:
-  Set directory to:
-    cd client
-  Type in cmd:
+Running the client(set directory to client):
     npm run start
